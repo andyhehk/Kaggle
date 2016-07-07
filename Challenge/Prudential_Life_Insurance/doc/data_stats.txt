@@ -1,0 +1,17 @@
+continuous:
+Employment_Info_1 19
+Employment_Info_4 6779
+Employment_Info_6 10854
+Insurance_History_5 25396
+Family_Hist_2 28656
+Family_Hist_3 34241
+Family_Hist_4 19184
+Family_Hist_5 41811
+
+dicrete:
+Medical_History_1 8889
+Medical_History_10 58824
+Medical_History_15 44596
+Medical_History_24 55580
+Medical_History_32 58274
+
